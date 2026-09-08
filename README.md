@@ -1,16 +1,39 @@
-# React + Vite
+# Attack on Titan - Interactive 3D Web Experience
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://sunrisezes.github.io/Attack-on-Titan/)
 
-Currently, two official plugins are available:
+**[View the Live Website Here!](https://sunrisezes.github.io/Attack-on-Titan/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## About
+This project is a highly interactive, premium promotional website for the legendary anime **Attack on Titan**. 
 
-## React Compiler
+Built to mimic the smooth, cinematic, scroll-driven aesthetic often seen on Apple product pages, the site features:
+- **Immersive 3D Parallax Effects:** Dynamic mouse-tracking environments.
+- **Cinematic Scroll Animations:** Powered by GSAP and ScrollTrigger, transitioning seamlessly between the Lore of the Walls, Character introductions, and the dramatic Rumbling.
+- **AI-Generated Art:** Unique, high-resolution, dark, and moody background art created exclusively for this project to ensure a premium feel.
+- **Responsive Layout:** Beautiful typography and spacing styled with Tailwind CSS v4.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
+- **React (Vite):** Fast component-based architecture.
+- **GSAP & ScrollTrigger:** For the complex, scroll-bound animation timelines.
+- **Tailwind CSS v4:** Utility-first CSS framework for rapid UI styling.
 
-## Expanding the Oxlint configuration
+## Local Development
+To run this project locally:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sunrisezes/Attack-on-Titan.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Attack-on-Titan
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
