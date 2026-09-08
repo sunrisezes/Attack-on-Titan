@@ -33,7 +33,7 @@ export default function Climax() {
       {/* Background */}
       <div 
         className="absolute inset-0 bg-cover bg-center mix-blend-multiply"
-        style={{ backgroundImage: 'url(/colossal.jpg)' }}
+        style={{ backgroundImage: 'url(colossal.jpg)' }}
       />
       
       {/* Intense Text */}

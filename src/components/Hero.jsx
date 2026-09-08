@@ -49,7 +49,7 @@ export default function Hero() {
       <div 
         ref={bgRef}
         className="absolute w-[110vw] h-[110vh] bg-cover bg-center -z-10"
-        style={{ backgroundImage: 'url(/hero.jpg)' }}
+        style={{ backgroundImage: 'url(hero.jpg)' }}
       >
         {/* Dark Overlay */}
         <div className="absolute inset-0 bg-black/50" />

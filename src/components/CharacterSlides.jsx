@@ -32,19 +32,19 @@ export default function CharacterSlides() {
       name: "Eren Yeager", 
       title: "The Attack Titan",
       desc: "Driven by an insatiable desire for freedom, Eren's path is soaked in blood. His iron will moves humanity forward, regardless of the cost.", 
-      img: "/eren.jpg" 
+      img: "eren.jpg" 
     },
     { 
       name: "Mikasa Ackerman", 
       title: "The Prodigy",
       desc: "Her loyalty is absolute; her blade is lethal. Mikasa stands as the ultimate shield for the ones she loves, a warrior unmatched in grace and brutality.", 
-      img: "/mikasa.jpg" 
+      img: "mikasa.jpg" 
     },
     { 
       name: "Levi Ackerman", 
       title: "Humanity's Strongest",
       desc: "Cold, calculating, and overwhelmingly powerful. Captain Levi's mere presence strikes fear into the hearts of Titans.", 
-      img: "/levi.jpg" 
+      img: "levi.jpg" 
     }
   ];
 

@@ -56,7 +56,7 @@ export default function Characters() {
         <div 
           ref={imageRef}
           className="w-full h-full bg-cover bg-center opacity-50"
-          style={{ backgroundImage: 'url(/scouts.jpg)' }}
+          style={{ backgroundImage: 'url(scouts.jpg)' }}
         />
         {/* Vignette effect */}
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,_transparent_0%,_#111_100%)]" />

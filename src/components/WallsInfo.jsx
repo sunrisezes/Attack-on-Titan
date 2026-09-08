@@ -29,9 +29,9 @@ export default function WallsInfo() {
   }, []);
 
   const walls = [
-    { name: "Wall Maria", desc: "The outermost wall, standing at 50 meters tall. It fell in the year 845.", img: "/colossal.jpg" },
-    { name: "Wall Rose", desc: "The middle wall, protecting the inner cities. Breached, but later reclaimed.", img: "/scouts.jpg" },
-    { name: "Wall Sina", desc: "The innermost wall, protecting the King and the highest class citizens.", img: "/hero.jpg" }
+    { name: "Wall Maria", desc: "The outermost wall, standing at 50 meters tall. It fell in the year 845.", img: "colossal.jpg" },
+    { name: "Wall Rose", desc: "The middle wall, protecting the inner cities. Breached, but later reclaimed.", img: "scouts.jpg" },
+    { name: "Wall Sina", desc: "The innermost wall, protecting the King and the highest class citizens.", img: "hero.jpg" }
   ];
 
   return (
